@@ -36,3 +36,9 @@ Request body example:
         "total": 75
     }
  
+
+ #
+
+ **Big-O Time Complexity**
+
+    O(log(n)) — Logarithmic Time
